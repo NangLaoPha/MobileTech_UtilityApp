@@ -1,6 +1,6 @@
 # Daily Focus: Habit & Streak Tracker
 
-**CP3406 / CP5307 Assessment 1: Utility App**
+**CP3406 Assessment 1: Utility App**
 
 "Daily Focus" is a lightweight, at-a-glance Android utility application designed to help users stay committed to a single daily core habit (e.g., *Read 20 Mins*, *Drink 2L Water*, *Morning Workout*) alongside a daily motivational focus quote fetched dynamically from the public ZenQuotes API.
 
